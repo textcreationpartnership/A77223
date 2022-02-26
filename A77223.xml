@@ -1,0 +1,405 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A dialogue between the Devil &amp; Prince Rupert, written at the Leaguer before Chester upon Ruperts coming to relieve the said city. Published, that those that now are, or hereafter shall engage, as caterers, for the same master, might by this general debenter be the better assured to receive all their arrears both old and new. Written by E. B.</title>
+            <author>Bradshaw, Ellis.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A77223</idno>
+            <idno type="STC">Wing B4142</idno>
+            <idno type="STC">Thomason E561_8</idno>
+            <idno type="STC">ESTC R206013</idno>
+            <idno type="EEBO-CITATION">99865221</idno>
+            <idno type="PROQUEST">99865221</idno>
+            <idno type="VID">165213</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A77223)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 165213)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 86:E561[8])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A dialogue between the Devil &amp; Prince Rupert, written at the Leaguer before Chester upon Ruperts coming to relieve the said city. Published, that those that now are, or hereafter shall engage, as caterers, for the same master, might by this general debenter be the better assured to receive all their arrears both old and new. Written by E. B.</title>
+                  <author>Bradshaw, Ellis.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for T.B.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[1649?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>E. B. = Ellis Bradshaw.</note>
+                  <note>In verse.</note>
+                  <note>Date of publication from Wing.</note>
+                  <note>Annotation on Thomason copy: "June 23 1649".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Rupert, --  Prince, Count Palatine, 1615-1682 --  Poetry --  Early works to 1800.</term>
+               <term>Chester (England) --  History --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-03</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2013-03</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:165213:1" rendition="simple:additions"/>
+            <p>A DIALOGUE between the <hi>DEVIL</hi> &amp; Prince <hi>R<g ref="char:V">Ʋ</g>PERT,</hi> Written at the Leaguer before <hi>Cheſter</hi> upon RUPERTS coming to relieve the ſaid City.</p>
+            <p>Publiſhed, that thoſe that now are, or hereafter ſhall engage, as Caterers, for the ſame maſter, might by this general debenter be the better aſſured to receive all their Arrears both old and new.</p>
+            <p>Written by <hi>E. B.</hi>
+            </p>
+            <p>
+               <hi>London,</hi> Printed for <hi>T. B.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb n="2" facs="tcp:165213:2"/>
+            <head>
+               <hi>The Devil and Prince Rupert;</hi> OR Prince RUPERT the Devils Caterer, for the inſatiable gulph or belly of hell; his invite<g ref="char:EOLhyphen"/>ment thereof after Breakfaſt and Dinner, now at laſt to Supper; with the Devils Anſwers and his Replies, as followeth.</head>
+            <lg>
+               <l>GApe hungry Hell, thou'l ne're be ſatisfied,</l>
+               <l>Thy belly's bottomleſs and wonderous wide,</l>
+               <l>Elſe it could ne're contain ſo much at onſt;</l>
+               <l>I therefore think it was made for the nonſt:</l>
+               <l>Thou hadſt a Breakfaſt dreſt thee at <hi>Edghill,</hi>
+               </l>
+               <l>One would have thought thou there hadſt eat thy fill.</l>
+               <l>Likewiſe I cater'd and prepar'd agen</l>
+               <l>At <hi>York</hi> a Dinner of five thouſand men:</l>
+               <l>And now again I have a multitude</l>
+               <l>Of bruitiſh, ſwiniſh, wicked, baſe and rude,</l>
+               <l>They'l ſoon be fat and fitted for the ſlaughter,</l>
+               <l>I give ſuch bredth for plunder and for paſture,</l>
+               <l>And mean to dreſs and fit them all for ſupper,</l>
+               <l>But then let cater who that will for <hi>Rupert.</hi>
+               </l>
+            </lg>
+            <lg>
+               <head>The Devils Anſwer to his Cater Rupert.</head>
+               <l>Well <hi>Rupert,</hi> well, but wilt thou ſerve us ſo?</l>
+               <l>Wilt thou disband thy ſelf, and from us go,</l>
+               <l>When, well thou knoweſt, we ſtand in greateſt need,</l>
+               <l>And want of men my hungry belly t' feed?</l>
+               <l>Know therefore then, if thus thou from us go,</l>
+               <l>Thou ſhalt be payd with endleſs, eaſleſs wo:</l>
+               <l>If ere thou ceaſe to rob, and wrong, and ſpoil,</l>
+               <l>Thou ſhalt thy ſelf be robbed, wronged, foild:</l>
+               <pb n="3" facs="tcp:165213:2"/>
+               <l>Or ceaſe thy murder, and thy treachery,</l>
+               <l>And ſome man ſhall betray and butcher thee:</l>
+               <l>For ſo from God above they have commiſſion,</l>
+               <l>Papiſts themſelves will do't by his permiſſion:</l>
+               <l>Though thou dares truſt them; yet if thou them leave,</l>
+               <l>Of life and honor they will thee bereave:</l>
+               <l>And deal far worſe with thee, then any other,</l>
+               <l>By how much deeper thou art ſworn their brother:</l>
+               <l>Then think not thou, at leaſt, to ſerve us ſo,</l>
+               <l>Leſt it procure thy preſent endleſs wo:</l>
+               <l>For Hell mouth gapes, for thee as well as others,</l>
+               <l>Nay for thee rather, thou and I are brothers.</l>
+               <l>Be therefore wife, and ſerve me out thy time,</l>
+               <l>And all the Papiſts ſhall with thee combine;</l>
+               <l>Yea all the Atheiſts ſure will take thy part,</l>
+               <l>And guard thy life, and never from the ſtart:</l>
+               <l>So ſhalt thou ſcape from Hell, as long as they,</l>
+               <l>And when thou comes, receive thy double pay.</l>
+            </lg>
+            <lg>
+               <head>Prince Ruperts Reply.</head>
+               <l>My pay, ſays <hi>Rupert,</hi> what now doſt thou mean,</l>
+               <l>Thou damned Devil? when did I complain</l>
+               <l>For want of pay? I am a Volunteer</l>
+               <l>Thou never heard, I want of pay did fear:</l>
+               <l>I ſerve for love of thee, and juſt thy cauſe,</l>
+               <l>And therefore look I ſhould have thy applauſe;</l>
+               <l>And that the Papiſts ſhould not from me ſever,</l>
+               <l>But that we might approach thy Court together,</l>
+               <l>And there be entertaind with royal honors,</l>
+               <l>That have for Antichriſt diſplayd our Banners:</l>
+               <l>Papiſts and Athieſts, all the damned rabble,</l>
+               <l>Ile bring them home as ſoon as I am able.</l>
+               <l>Lets therefore know what deſperate royal honors</l>
+               <l>Thou wilt afford according to thy manners,</l>
+               <l>When we approach thy preſence and thy palace,</l>
+               <l>By ſword or famine, peſtilence or gallows:</l>
+               <l>And if I like thy deviliſh damned honors,</l>
+               <l>Ile ſerve my time, and ſtill diſplay thy banners.</l>
+            </lg>
+            <pb n="4" facs="tcp:165213:3"/>
+            <lg>
+               <head>The Devils Anſwer to his Caterer Rupert, for his fuller ſatisfaction in his proud humor.</head>
+               <l>Well <hi>Rupert,</hi> harken, ſith thou art ſo ſtout,</l>
+               <l>Ile tell thee truth, and put thee out of doubt;</l>
+               <l>Theſe are my Royal, Courtly, Kingly Honors,</l>
+               <l>To all that conſtantly diſplay my Banners.</l>
+               <l>When firſt they enter my infernal pallace</l>
+               <l>By Sword or Famine, Peſtilence or Gallows,</l>
+               <l>Yea thus it is, and thou ſhalt find it ſo,</l>
+               <l>Though both to thine, and mine eternal wo.</l>
+            </lg>
+            <lg>
+               <head>Lucifer or Belzebubs welcom to his new guests or inmates, at their firſt entrance, or dragging of them down, to his infernal pallace, amongſt his rough-hewn Courtiers, as followeth.</head>
+               <l>Oh brave infernals, welcom now to me,</l>
+               <l>It doth me much rejoyce, you here to ſee:</l>
+               <l>Who hath you held thus long? Why have you ſtaid,</l>
+               <l>As though you ſhould not have your wages paid?</l>
+               <l>Why are you grown ſo fearful to approach</l>
+               <l>My utmoſt pallace? ſent I not a coach</l>
+               <l>To fetch you in, and t' ſhew ye'are welcom Friends?</l>
+               <l>Come in, come in, Ile make you all amends;</l>
+               <l>You need not doubt, you ſhall not want your pay,</l>
+               <l>Ile give you intereſt double for your ſtay:</l>
+               <l>What you have loſt in time, Ile pay't in meaſure</l>
+               <l>For all your pains and care, with helliſh treaſure:</l>
+               <l>I am not poor nor ſore of helliſh coyn,</l>
+               <l>My Subjects do what ever I enjoyn.</l>
+               <l>I need not budg, nor call a Parliament</l>
+               <l>To furniſh me with coyn for my intent.</l>
+               <l>I can maintain my Souldiers all with pay,</l>
+               <l>And lodg them warm in Winter, night or day:</l>
+               <l>I have both choice and ſtore of gold and coyn,</l>
+               <l>Of wine and beer; you need not to purloyn:</l>
+               <l>I can and will requite and retribute</l>
+               <l>Your pains and minds with what thereto doth ſute.</l>
+               <pb n="5" facs="tcp:165213:3"/>
+               <l>You ſhall not want a mite of your deſerts,</l>
+               <l>Your juſt proportions, nor your equall parts:</l>
+               <l>He that hath earned more, ſhall more receive,</l>
+               <l>He that hath earned leſſe, the leſſe ſhall have.</l>
+               <l>He that with zeale and valour hath employd,</l>
+               <l>And ſpent his ſtrength and wits, and hath annoyd</l>
+               <l>And hurt them moſt, that have my cauſe withſtood,</l>
+               <l>I will with zeal requite him and his brood.</l>
+               <l>He ſhall drink deep of mixt and helliſh wine</l>
+               <l>Flaming in cups of zeale and fury fine;</l>
+               <l>As Captain chief, he ſhall have brave attendants,</l>
+               <l>Such whom he liked, that were his dependants.</l>
+               <l>Theſe ſhall incloſe and compaſſe him about,</l>
+               <l>Clothed with fire, and fury on a rout,</l>
+               <l>Whereby they ſhall increaſe, not quench his flame,</l>
+               <l>But heap on wood and brimſton to the ſame;</l>
+               <l>Each one as faggots ſhall about him ſtand,</l>
+               <l>He in the midſt, and all at my command.</l>
+               <l>There ſhall the fire, yea breath and wrath of God</l>
+               <l>Seize or, and burn, as on a heap of wood.</l>
+               <l>There ſhall they cry and yell with hiddeous noyce,</l>
+               <l>At which my highneſs laughing, ſhall rejoyce:</l>
+               <l>Though I muſt with them be tormented then,</l>
+               <l>Yet needs I muſt rejoyce, to torture them.</l>
+               <l>For had <hi>I</hi> not been wickedly diſpoſd,</l>
+               <l>
+                  <hi>I</hi> never had in this my pit been cloſd.</l>
+            </lg>
+            <lg>
+               <head>Prince <hi>Ruperts</hi> deſperate Reply, as followeth.</head>
+               <l>Oh wicked, damned, deſperate, curſed Devil,</l>
+               <l>Canſt thou rejoyce, to know our caſe ſo evill?</l>
+               <l>And doſt not ſhame, to tell it us before,</l>
+               <l>What we and thou muſt bide for evermore.</l>
+               <l>Nay, what both thou, and we, with all our power,</l>
+               <l>Can neither help, nor mitigate an houre:</l>
+               <l>And is it true, that thou wilt then rejoyce,</l>
+               <l>To heare our cryes, and yelling hiddious noyſe;</l>
+               <l>Though thou thy ſelf muſt be tormented too,</l>
+               <l>Together with us, as is juſtly due.</l>
+               <pb n="6" facs="tcp:165213:4"/>
+               <l>Yea though thou waſt the firſt that led us wide,</l>
+               <l>And made us break that Law that ſhould us guide</l>
+               <l>To Heaven-ward, and keep us back from Hell,</l>
+               <l>Where thou, for doing ſo, muſt ever dwell;</l>
+               <l>And yet thou canſt rejoyce, that thou and we</l>
+               <l>Muſt there for evermore tormented be.</l>
+               <l>What good can that do thee to ſee us broyl</l>
+               <l>In helliſh flames, who knows it was thy guile</l>
+               <l>That brought us thither, and for which thou muſt</l>
+               <l>Be more tormented, and more deeply curſt:</l>
+               <l>Yea thou that knows this to be juſt and true,</l>
+               <l>And that it is no more but what is due,</l>
+               <l>That thou and we, look how much more we ſin,</l>
+               <l>So much more torment we augment and win,</l>
+               <l>And heap on faggots to increaſe our flame,</l>
+               <l>Elſe they that writ the Scripture are to blame;</l>
+               <l>And yet thou ſtill canſt inſtigate to ſin,</l>
+               <l>And put us on, vain-glory but to win,</l>
+               <l>And make us toyl and moyl, yea ſweat and chafe,</l>
+               <l>To heap up wrath againſt the day of wrath:</l>
+               <l>Thou damned Devil, thou art worſe then I,</l>
+               <l>I never could have dealt ſo ill with thee:</l>
+               <l>Though yet it may be thou herein but lyes,</l>
+               <l>There's no ſuch matters, Heaven and Hell are toys.</l>
+               <l>I never yet regarded ſuch reports,</l>
+               <l>But choſe to follow honor, wealth, and ſports</l>
+               <l>Whiles this life laſts, and then let come what will,</l>
+               <l>God hath they ſay decreed both good and ill:</l>
+               <l>Whatever hath been, is, or ſhall be done</l>
+               <l>Againſt both God the Father and the Son:</l>
+               <l>Why then ſhould I relinquiſh all my pleaſure,</l>
+               <l>My way to honor, yea, to wealth and treaſure,</l>
+               <l>And go about to ſerve and worſhip God,</l>
+               <l>Which never yet methinks with honor ſtood,</l>
+               <l>In ſight of men to humble ſo my ſelf,</l>
+               <l>They would but think me ſome baſe-minded elf:</l>
+               <l>Beſides, I ſhould but play the Hypocrite,</l>
+               <l>If I ſhould ſeem therein to take delight,</l>
+               <pb n="7" facs="tcp:165213:4"/>
+               <l>By making ſhew of holineſs within,</l>
+               <l>When well I know my heart is fraught with ſin:</l>
+               <l>Yea, God and man would call me hypocrite,</l>
+               <l>Unleſs my heart therein did take delight:</l>
+               <l>For that which is within would ſometimes out,</l>
+               <l>I ſhould appear ſo deviliſh proud and ſtout,</l>
+               <l>That all would know I were not ſo indeed,</l>
+               <l>Nor would ſuch ſhews ſtand me in any ſteed,</l>
+               <l>Unleſs I firſt of all could cleanſe my heart,</l>
+               <l>And from my ſins and wickedneſs depart,</l>
+               <l>God would not hear my prayer, nor accord</l>
+               <l>To what I do in act or ſpeak in word:</l>
+               <l>And this I know I cannot frame to do,</l>
+               <l>Its therefore vain to ſet my ſelf thereto,</l>
+               <l>For love of ſin hath ſo poſſeſt my heart,</l>
+               <l>That I can never freely with it part:</l>
+               <l>Then come what will, I muſt ſeclude all care,</l>
+               <l>It ſpoyls my honor, pleaſure, dainty fair;</l>
+               <l>And all my worldly hopes it ſwallows up,</l>
+               <l>When I but think of drinking ſuch a cup</l>
+               <l>As thou haſt told me of, thou damned Devil,</l>
+               <l>Come lets to th' wine, Ile drink no cup ſo evil.</l>
+               <l>Do thou thy worſt, Ile ſcape thy gaping mouth,</l>
+               <l>I can retire Eaſt, Weſt, yea North and South;</l>
+               <l>I ſhall make ſure before I battel give</l>
+               <l>To paſs and repaſs, 'cauſe I mean to live:</l>
+               <l>Gape therefore hell, and let me ſee thy mouth,</l>
+               <l>I know not where to finde it North or South:</l>
+               <l>But gape, I come, Ile bring them up amain,</l>
+               <l>And drive them headlong to eternal pain:</l>
+               <l>For what care I, the blame ſhall light on thee,</l>
+               <l>And on themſelves becauſe they cannot ſee,</l>
+               <l>But flunder down, and fall into thy mouth,</l>
+               <l>Becauſe they will not part from ſins of youth;</l>
+               <l>But are grown deſp'rate in God-damning ways,</l>
+               <l>And neither care what God nor Scripture ſays;</l>
+               <l>And as for me, I cannot blame them much,</l>
+               <l>Leſt of my own ſins they give me ſome touch:</l>
+               <pb n="8" facs="tcp:165213:5"/>
+               <l>And how ſhould I find fault and blame them for</l>
+               <l>What I in heart do love, or not abhor,</l>
+               <l>For they and I, and I and they together</l>
+               <l>Are ripe for ruine, reap when God ſends weather,</l>
+               <l>And ſpare not me, ſo thou mayſt reap us all;</l>
+               <l>Gape wide enough for horſe, and man, and all:</l>
+               <l>Ile troop them up with full carrier together;</l>
+               <l>Ile either choke thee or thy breath Ile ſmother.</l>
+            </lg>
+            <lg>
+               <head>The Anſwer of the Devil and the inſatiable gulph</head>
+               <l>Well, deſperate wicked RUPERT, ſpare not me,</l>
+               <l>I much rejoyce thy deſperate minde to ſee:</l>
+               <l>For thou and I, and many thouſand others</l>
+               <l>Were long ſince deſperate, therein we are brothers:</l>
+               <l>However yet <hi>I</hi> am your proper father,</l>
+               <l>You are my ſons and heirs, come all together,</l>
+               <l>You ſhall be welcom, come on when you pleaſe;</l>
+               <l>Throng in amain, you ſhall not me diſpleaſe:</l>
+               <l>I much rejoyce in hopes of ſuch a ſupper,</l>
+               <l>Yet if the Roundheads do, Ile ſpare Prince RUPERT:</l>
+               <l>For were it not for thee, as I am told,</l>
+               <l>I could not get my mouth full ſcarce for gold:</l>
+               <l>But deſperate RUPERT thou doſt threat to choke me,</l>
+               <l>I would I had my mouth full, <hi>Rupert</hi> look thee,</l>
+               <l>Its two miles wide, as 'twas at York ith' battail,</l>
+               <l>Fill it and take't thee, thou proves deſperate mettal.</l>
+            </lg>
+            <trailer>FINIS,</trailer>
+            <closer>
+               <dateline>
+                  <date>April 1. 1645.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="closing_stanza">
+            <lg>
+               <l>Upon the Princes coming down for <hi>Cheſhire,</hi>
+               </l>
+               <l>Diſcovered, over-heard, diſcloſd by me,</l>
+               <l>Whoſe name and ſirname 'gins with <hi>E</hi> and <hi>B,</hi>
+               </l>
+               <l>But cauſe ſome think my name I dare not ſhow,</l>
+               <l>Its <hi>Ellis Bradſhaw,</hi> tell Prince RUPERT ſo.</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>
